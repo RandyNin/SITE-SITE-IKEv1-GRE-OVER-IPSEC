@@ -88,7 +88,7 @@ La documentación técnica completa está disponible en:
 
 ## Configuración VPN
 
-El archivo de configuración completo está disponible en [`gre-ipsec`](https://claude.ai/chat/gre-ipsec). Bloques clave:
+El archivo de configuración completo está disponible en [`gre-ipsec`](./Gre-Ipsec). Bloques clave:
 
 **Fase 1: política ISAKMP (simétrica)**
 
