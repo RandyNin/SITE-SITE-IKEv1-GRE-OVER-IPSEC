@@ -1,7 +1,4 @@
 
-Ahora el README:
-
----
 
 # SITE-SITE-IKEv1-GRE-OVER-IPSEC
 
